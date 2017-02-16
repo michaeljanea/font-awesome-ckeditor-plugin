@@ -18,7 +18,7 @@ Compatible with Font Awesome 4.3
     7. Done
 
 # Dependencies
-It requires the following plugins to work: Widget, Line Utilities, and Color Dialog.
+It requires the following plugins to work: [Widget](http://ckeditor.com/addon/widget), [Line Utilities](http://ckeditor.com/addon/lineutils), and [Color Dialog](http://ckeditor.com/addon/colordialog).
 
 # Logs
 
